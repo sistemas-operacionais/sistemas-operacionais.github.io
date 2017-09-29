@@ -20,8 +20,7 @@
 
 ## criar diretório do projeto
 ```
-mkdir devops-na-pratica
-mkdir devops-na-pratica/vagrant
+mkdir -p devops-na-pratica/vagrant
 ```
 
 ## baixar código-fonte da aplicação web
@@ -34,7 +33,6 @@ git clone https://github.com/dtsato/loja-virtual-devops.git
 
 ## criar arquivo de configuração do Vagrant
 ```
-touch vagrant/Vagrantfile
 vim vagrant/Vagrantfile
 ```
 
