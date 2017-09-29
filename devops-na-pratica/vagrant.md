@@ -1,3 +1,14 @@
+# DevOps na prática com Vagrant
+
+## Objetivo
+
+1. Montar 2 containeres para prover aplicação web:
+    1. Banco de dados para armazenar as informações
+    2. Um servidor web para prover a aplicação
+2. Usar os containeres para compilar, instalar e testar a aplicação
+
+
+
 # Preparar máquina hospedeira
 
 ## instalar softwares
@@ -45,6 +56,8 @@ Vagrant.configure(VAGRANT_API_VERSION) do |config|
         www.vm.hostname = "web"
         www.vm.network :private_network,
             :ip => "192.168.33.12"
+        www.vm.synced_folder "../loja-virtual-devops/",
+            "/src"
     end
 end
 ```
@@ -171,21 +184,21 @@ sudo service tomcat7 restart
         type="javax.sql.DataSource"
         maxActive="100" maxIdle="30" maxWait="10000"
         username="loja" password="lojasecret"
-        driverClass="com.mysql.jdbc.Driver"
+        driverClassName="com.mysql.jdbc.Driver"
         url="jdbc:mysql://192.168.33.10:3306/loja_schema"
     />
     <Resource name="jdbc/secure" auth="Container"
         type="javax.sql.DataSource"
         maxActive="100" maxIdle="30" maxWait="10000"
         username="loja" password="lojasecret"
-        driverClass="com.mysql.jdbc.Driver"
+        driverClassName="com.mysql.jdbc.Driver"
         url="jdbc:mysql://192.168.33.10:3306/loja_schema"
     />
     <Resource name="jdbc/storage" auth="Container"
         type="javax.sql.DataSource"
         maxActive="100" maxIdle="30" maxWait="10000"
         username="loja" password="lojasecret"
-        driverClass="com.mysql.jdbc.Driver"
+        driverClassName="com.mysql.jdbc.Driver"
         url="jdbc:mysql://192.168.33.10:3306/loja_schema"
     />
 </Context>
@@ -201,11 +214,12 @@ JAVA_OPTS="-Djava.awt.headless=true -Xmx512m -XX:+UseConcMarkSweepGC"
 ```
 
 
-## Compilando o código e fazendo a instalação do sistema
+# Compilando o código e fazendo a instalação do sistema
 
 **Compilando**
 
 ```bash
+vagrant ssh web
 cd /src/
 mvn install
 ```
@@ -213,5 +227,28 @@ mvn install
 
 **Instalando**
 ```bash
+vagrant ssh web
 cp combined/target/devopsnapratica.war /var/lib/tomcat7/webapps
 ```
+
+
+
+# Monitorando o servidor web
+
+
+# Terminar trabalho
+
+
+## Desligar containeres
+
+```bash
+vagrant halt
+```
+
+## Finalizando um acesso ```vagrant ssh```
+
+```bash
+exit
+```
+
+ou ```CTRL+D```
