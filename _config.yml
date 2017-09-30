@@ -1,6 +1,6 @@
-theme: jekyll-theme-minimal
-# theme: jekyll-swiss
-# theme_color: white
+# theme: jekyll-theme-minimal
+theme: jekyll-swiss
+theme_color: white
 #
 title: Sistemas Operacionais
 description: Página da disciplina Sistemas Operacionais
