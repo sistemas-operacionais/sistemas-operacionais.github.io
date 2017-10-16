@@ -19,11 +19,14 @@
 
 ### Hierarquia
 
-```pstree```
+
+comando ```pstree```
+
 
 
 
 ### Processos IO ou CPU Bound
+
 
 ```c
 FILE * fp = fopen("exemplo", "w+");
