@@ -1,5 +1,5 @@
 ---
-layout: padrao
+layout: default
 ---
 
 # SO
