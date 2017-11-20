@@ -7,7 +7,7 @@
 5  | Lab. com Docker |  |  |  
 6  | [Processos](processos) e [threads](slides/threads.pdf) | [java](slides/threads-java.pdf) | Sistemas operacionais: conceitos e mecanismos, capítulo 2 |
 7  | [Concorrência](slides/concorrencia.pdf) |  | Sistemas operacionais: conceitos e mecanismos, capítulo 2, seção  |  
-8  | Escalonamento | | Sistemas operacionais: conceitos e mecanismos, capítulo 2, seção 5 |
+8  | [Escalonamento](slides/processo-escalonamento.pdf) | | Sistemas operacionais: conceitos e mecanismos, capítulo 2, seção 5 |
 9  | Comunicação entre processos | | Sistemas operacionais: conceitos e mecanismos, capítulo 3 |  
 10 | Memória |  |  |  
 11 | Entradas e saídas  |  |  |  
