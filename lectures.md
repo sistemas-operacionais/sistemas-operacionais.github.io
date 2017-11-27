@@ -3,13 +3,13 @@
 1  | Introdução | | Sistemas operacionais: conceitos e mecanismos, capítulo 1 |  
 2  | Linux |   |  |
 3  | Máquina Virtual | |  Sistemas operacionais: conceitos e mecanismos, capítulo 9 |  
-4  | Lab. com Docker |  |  |  
-5  | Lab. com Docker |  |  |  
-6  | [Processos](processos) e [threads](slides/threads.pdf) | [java](slides/threads-java.pdf) | Sistemas operacionais: conceitos e mecanismos, capítulo 2 |
-7  | [Concorrência](slides/concorrencia.pdf) |  | Sistemas operacionais: conceitos e mecanismos, capítulo 2, seção  |  
-8  | [Escalonamento](slides/processo-escalonamento.pdf) | | Sistemas operacionais: conceitos e mecanismos, capítulo 2, seção 5 |
-9  | Comunicação entre processos | | Sistemas operacionais: conceitos e mecanismos, capítulo 3 |  
-10 | Memória |  |  |  
-11 | Entradas e saídas  |  |  |  
-12 | Arquivos  |   |  |
-13 | Segurança  |   |  |
+4  | Docker |  |  |  
+5  | [Processos](processos) e [threads](slides/threads.pdf) | [java](slides/threads-java.pdf) | Sistemas operacionais: conceitos e mecanismos, capítulo 2 |
+6  | [Concorrência](slides/concorrencia.pdf) |  | Sistemas operacionais: conceitos e mecanismos, capítulo 2, seção  |  
+7  | [Escalonamento](slides/processo-escalonamento.pdf) | | Sistemas operacionais: conceitos e mecanismos, capítulo 2, seção 5 |
+8  | Comunicação entre tarefas | | Sistemas operacionais: conceitos e mecanismos, capítulo 3 |  
+8  | Coordenação entre tarefas | | Sistemas operacionais: conceitos e mecanismos, capítulo 4 |  
+10 | Memória |  | Sistemas operacionais: conceitos e mecanismos, capítulo 5 |  
+11 | Entradas e saídas  |  | Sistemas operacionais: conceitos e mecanismos, capítulo 6 |  
+12 | Arquivos  |   | Sistemas operacionais: conceitos e mecanismos, capítulo 7 |
+13 | Segurança  |   | Sistemas operacionais: conceitos e mecanismos, capítulo 8 |
