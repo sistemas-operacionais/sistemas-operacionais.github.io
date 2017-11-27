@@ -7,6 +7,10 @@
 
 
 ## Links
+
+- Livros gratuitos
+    - [The New Stack e-books](https://thenewstack.io/ebookseries/)
+    - [Free Programming eBooks](https://www.packtpub.com/packt/offers/free-learning) (disponibiliza 1 livro gratuito a cada 24h)
 - http://gnu.org
 - Linux
   - https://itsfoss.com
@@ -16,8 +20,6 @@
   - http://www.scs.stanford.edu/17wi-cs140/notes/
   - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012/lecture-notes-and-readings/
   - http://www.eecs.harvard.edu/~cs161/syllabus.html
-- Docker
-  - https://thenewstack.io/ebookseries/
 - Netbeans
   - http://wiki.netbeans.org/Docker
   - http://wiki.netbeans.org/JavaEEDocker
