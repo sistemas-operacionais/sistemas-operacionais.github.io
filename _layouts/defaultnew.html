@@ -21,7 +21,7 @@
             {% if site.data.info %}
             <p>
                 {% for item in site.data.info %}
-                <p><label>{{ item.title }}</label>: {{ item.text }}</p>
+                <label>{{ item.title }}</label>: {{ item.text }}<br />
                 {% endfor %}
             </p>
             {% endif %}
