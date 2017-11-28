@@ -28,7 +28,7 @@
 
             {% if site.data.conteudo_new %}
             <p>
-                {% for item in site.data.conteudo %}
+                {% for item in site.data.conteudo_new %}
                 <a href="{{ item.url }}">{{ item.title }}</a><br />
                 {% endfor %}
             </p>
