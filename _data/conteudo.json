@@ -1,8 +1,20 @@
 [
-    {
-      "title": "Notas de aula",
-      "url": "lectures"},
-    {
-      "title": "Links",
-      "url": "bibliography"}
+  {
+    "title": "Ementa",
+    "url": "http://diatinf.ifrn.edu.br/lib/exe/fetch.php?media=cursos:superiores:tads:curso2012:ementas:04_desenvolvimento_de_sistemas_distribuidos.pdf"},
+  {
+    "title": "Notas de aula",
+    "url": "/lectures"},
+  {
+    "title": "Cronograma",
+    "url": "/dates"},
+  {
+    "title": "Avaliações",
+    "url": "/exams"},
+  {
+    "title": "Links",
+    "url": "/bibliography"},
+  {
+    "title": "CADES",
+    "url": "https://github.com/cades-ifrn/sobre"}
 ]

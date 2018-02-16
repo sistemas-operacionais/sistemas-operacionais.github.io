@@ -17,13 +17,12 @@
     <div class="wrapper">
         <header>
             <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
             {% if site.data.info %}
-            <p>
-                {% for item in site.data.info %}
-                <label>{{ item.title }}</label>: {{ item.text }}<br />
-                {% endfor %}
-            </p>
+                <p>
+                    {% for item in site.data.info %}
+                        <label>{{ item.title }}</label>: {{ item.text }}<br />
+                    {% endfor %}
+                </p>
             {% endif %}
 
             {% if site.data.conteudo %}
