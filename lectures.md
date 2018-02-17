@@ -1,14 +1,22 @@
-No. | Tópico | Práticas | Leitura antes da aula | Exercícios
+---
+layout: default
+---
+
+# [](#header-1) Conteúdo da disciplina
+
+
+No. | Tópicos | Práticas | Exercícios
 --- | --- | --- | --- | ---
-1   | Introdução |  | Sistemas operacionais: conceitos e mecanismos, capítulo 1 |  
-2   | Linux |  |  |
-3   | Máquina Virtual |  |  Sistemas operacionais: conceitos e mecanismos, capítulo 9 |  
-4   | Docker |  |  |  
-5   | [Processos](processos) e [threads](slides/threads.pdf) | [java](slides/threads-java.pdf) | Sistemas operacionais: conceitos e mecanismos, capítulo 2 |
-6   | [Concorrência](slides/concorrencia.pdf) |  | Sistemas operacionais: conceitos e mecanismos, capítulo 4  |  
-7   | [Escalonamento](slides/processo-escalonamento.pdf) | | Sistemas operacionais: conceitos e mecanismos, capítulo 2, seção 5 |
-8   | Comunicação entre tarefas | | Sistemas operacionais: conceitos e mecanismos, capítulo 3 |   
-9   | Memória |  | Sistemas operacionais: conceitos e mecanismos, capítulo 5 |  
-10  | Entradas e saídas  |  | Sistemas operacionais: conceitos e mecanismos, capítulo 6 |  
-11  | Arquivos |  | Sistemas operacionais: conceitos e mecanismos, capítulo 7 |
-12  | Segurança |  | Sistemas operacionais: conceitos e mecanismos, capítulo 8 |
+1   | [Introdução](introduction/index) |  |  |  
+2   | Linux                     |  |  |
+3   | Máquina virtual           |  |  |  
+4   | DevOps e Docker           |  |  |  
+5   | Processos                 |  |  |
+6   | Concorrência              |  |  |  
+7   | Escalonamento de tarefas  |  |  |
+8   | Comunicação entre tarefas |  |  |
+9   | Impasse                   |  |  | 
+10  | Memória                   |  |  |  
+11  | Entradas e saídas         |  |  |  
+12  | Sistemas de arquivos      |  |  |
+13  | Segurança                 |  |  |
