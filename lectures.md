@@ -8,7 +8,7 @@ layout: default
 No. | Tópicos | Práticas | Exercícios
 --- | --- | --- | --- | ---
 1   | [Introdução](introduction/index) |  |  |  
-2   | Linux                     |  |  |
+2   | [Linux](linux/index) |  |  |
 3   | Máquina virtual           |  |  |  
 4   | DevOps e Docker           |  |  |  
 5   | Processos                 |  |  |
