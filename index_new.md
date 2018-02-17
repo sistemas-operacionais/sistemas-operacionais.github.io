@@ -1,5 +1,0 @@
----
-layout: defaultnew
----
-
-# SO
