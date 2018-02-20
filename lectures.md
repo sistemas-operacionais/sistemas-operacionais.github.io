@@ -7,7 +7,7 @@ layout: default
 
 No. | Tópicos | Práticas | Exercícios
 --- | --- | --- | --- | ---
-1   | [Introdução](introduction/index) |  |  |  
+1   | [Introdução](introduction/index) | - | [exercício](introduction/exam) |  
 2   | [Linux](linux/index) |  |  |
 3   | Máquina virtual           |  |  |  
 4   | DevOps e Docker           |  |  |  
