@@ -8,9 +8,9 @@ layout: default
 No. | Tópicos | Práticas | Exercícios
 --- | --- | --- | --- | ---
 1   | [Introdução](introduction/index) | - | [exercício](introduction/exam) |  
-2   | [Linux](linux/index) |  |  |
-3   | Máquina virtual           |  |  |  
-4   | [DevOps e Docker](docker/index) | [introdução](docker/intro) | - |  
+2   | [Linux](linux/index) | - | - |
+3   | Máquina virtual           | - |  |  
+4   | [DevOps e Docker](docker/index) | [introdução](docker/java), publicando, app no ar | - |  
 5   | Processos                 |  |  |
 6   | Concorrência              |  |  |  
 7   | Escalonamento de tarefas  |  |  |

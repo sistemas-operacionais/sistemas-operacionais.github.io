@@ -11,10 +11,10 @@ layout: default
 | 01 | sexta-feira 16-02 | Introdução à disciplina |
 | 02 | terça-feira 20-02 | [Introdução a sistemas operacionais](introduction/index) |
 | 03 | sexta-feira 23-02 | Laboratório de ideias |
-| 04 | terça-feira 27-02 | [DevOps e Docker](docker/intro.md) |
-| 05 | sexta-feira 02-03 | Virtualização |
-| 06 | terça-feira 06-03 | DevOps e Docker |
-| 07 | sexta-feira 09-03 | Gerência de tarefas |
+| 04 | terça-feira 27-02 | [DevOps e Docker](docker/index.md) |
+| 05 | sexta-feira 02-03 | Reunião externa - Tarefa no Google sala de aula |
+| 06 | terça-feira 06-03 | [DevOps e Docker](docker/index.md) |
+| 07 | sexta-feira 09-03 | Visita ao datacenter |
 | 08 | terça-feira 13-03 | Gerência de tarefas |
 | 09 | sexta-feira 16-03 | Acompanhamento do trabalho |
 | 10 | terça-feira 20-03 | Mecanismos de coordenação entre tarefas |

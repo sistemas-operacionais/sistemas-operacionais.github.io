@@ -20,4 +20,6 @@ _Docker enables true independence between applications and infrastructure and de
 
 ## [](#header-2) Práticas
 
-- [Introdução com java](intro)
+1. [Introdução com java](java)
+2. Introdução com glassfish e publicando no [hub.docker.com](https://hub.docker.com)
+3. Colocando a aplicação no ar
