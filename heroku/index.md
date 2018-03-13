@@ -142,7 +142,7 @@ git push github master
 
 **Procfile** configurando para executar o app web no heroku.com
 ```sh
-echo "web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/alo.war" > Procfile
+echo "web: java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/alo-heroku.war" > Procfile
 git add .
 git commit -m "configurando o heroku"
 ```
@@ -165,10 +165,13 @@ heroku open
 **criando e instalando o aplicativo no heroku**
 ```sh
 heroku plugins:install heroku-cli-deploy
-heroku apps:create alo
-heroku war:deploy target/alo.war --app alo
-heroku open --app alo
+heroku apps:create alowebjava
+heroku war:deploy target/alo-heroku.war --app alowebjava
+heroku open --app alowebjava
 ```
+
+- ```alowebjava``` nome do app no heroku.com
+- ```target/alo-heroku.war``` arquivo local de instalação da aplicação web
 
 ## [](#header-2) Links
 - [Heroku on Github](https://github.com/heroku)
