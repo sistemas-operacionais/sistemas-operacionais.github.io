@@ -16,14 +16,14 @@ layout: default
 | 06 | terça-feira 06-03 | [DevOps e Docker](docker/index.md) |
 | 07 | sexta-feira 09-03 | dúvidas |
 | 08 | terça-feira 13-03 | [Heroku](heroku/index) |
-| 09 | sexta-feira 16-03 | Acompanhamento do trabalho |
-| 10 | terça-feira 20-03 | Mecanismos de coordenação entre tarefas |
-| 11 | sexta-feira 23-03 | Mecanismos de coordenação entre tarefas |
-| 12 | terça-feira 27-03 | Mecanismos de coordenação entre tarefas |
-| 13 | terça-feira 03-04 | Mecanismos de coordenação entre tarefas |
-| 14 | sexta-feira 06-04 | Acompanhamento do trabalho |
-| 15 | terça-feira 10-04 | Gerência de memória |
-| 16 | sexta-feira 13-04 | Gerência de memória |
+| 09 | sexta-feira 16-03 | Visita ao datacenter |
+| 10 | terça-feira 20-03 | Visita ao datacenter |
+| 11 | sexta-feira 23-03 | Tarefas: introdução |
+| 12 | terça-feira 27-03 | Tarefas: introdução |
+| 13 | terça-feira 03-04 | FIXME |
+| 14 | sexta-feira 06-04 | FIXME |
+| 15 | terça-feira 10-04 | FIXME |
+| 16 | sexta-feira 13-04 | Avaliação escrita e individual |
 | 17 | terça-feira 17-04 | Apresentação do trabalho |
 | 18 | sexta-feira 20-04 | Entrega do resultado e autoavaliação |
 
