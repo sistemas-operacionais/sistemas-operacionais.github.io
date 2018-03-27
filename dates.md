@@ -21,11 +21,11 @@ layout: default
 | 11 | sexta-feira 23-03 | Tarefas: introdução |
 | 12 | terça-feira 27-03 | Tarefas: introdução |
 | 13 | terça-feira 03-04 | FIXME |
-| 14 | sexta-feira 06-04 | FIXME |
+| 14 | sexta-feira 06-04 | Avaliação individual e escrita |
 | 15 | terça-feira 10-04 | FIXME |
-| 16 | sexta-feira 13-04 | Avaliação escrita e individual |
+| 16 | sexta-feira 13-04 | CampusParty Acompanhamento de dúvidas |
 | 17 | terça-feira 17-04 | Apresentação do trabalho |
-| 18 | sexta-feira 20-04 | Entrega do resultado e autoavaliação |
+| 18 | sexta-feira 20-04 | FIXME |
 
 
 ## [](#header-2) 2o Bimestre
