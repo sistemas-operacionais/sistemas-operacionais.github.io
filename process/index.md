@@ -3,5 +3,5 @@
 ## [](#header-2) Sumário
 
 1. [Introdução](introduction)
-2. Gerenciador de processos
+2. [Escalonamento e dispachador](scheduler)
 3. Comunicação entre processos
