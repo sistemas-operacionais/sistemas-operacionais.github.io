@@ -42,19 +42,19 @@ ou **NetBeans**
 
 
 
-**Passo 4** Crie o modelo (entidade) Usuário com um vetor de usuários
+**Passo 3** Crie o modelo (entidade) Usuário com um vetor de usuários
 
 
-**Passo 5** Crie o controler para recuperar todos os (entidade) Usuários
+**Passo 4** Crie o controler para recuperar todos os (entidade) Usuários
 
 
-**Passo 6** Crie a visualização para mostrar todos os (entidade) Usuários
+**Passo 5** Crie a visualização para mostrar todos os (entidade) Usuários
 
 
-**Passo 7** Teste a aplicação sem o banco de dados
+**Passo 6** Teste a aplicação sem o banco de dados
 
 
-**Passo 8** Crie o banco de dados e importe os dados do randomuser.me
+**Passo 7** Crie o banco de dados e importe os dados do randomuser.me
 
 Faça o download dos dados da API randomuser.me
 Na linha de comando, acesse o diretório da aplicação JavaWebDocker
@@ -63,9 +63,9 @@ cd JavaWebDocker
 wget wget -O data.json https://randomuser.me/api/?results=50
 ```
 
-**Passo 9** Adicione a conexão ao modelo (entidade) Usuário
+**Passo 8** Adicione a conexão ao modelo (entidade) Usuário
 
-**Passo 10** Teste a aplicação com o banco de dados
+**Passo 9** Teste a aplicação com o banco de dados
 
 
 ## [](#header-2) 2a Etapa. Adicionando o container do banco de dados
