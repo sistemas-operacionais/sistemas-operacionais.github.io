@@ -6,4 +6,4 @@
 
 | aluno | link da tarefa |
 | --- | --- |
-
+| Minora (exemplo) | [cap1-minora](cap1-minora) |
