@@ -28,7 +28,7 @@
 - Chamadas do sistema (syscalls)
 - Chamadas de biblioteca (libcalls)
 
-[Componentes e interfaces de um sistema computacional](fig/interfaces.png)
+![Componentes e interfaces de um sistema computacional](fig/interfaces.png)
 
 ### [](#header-3) Máquina virtual
 
@@ -38,7 +38,7 @@
   - monitor ou hipervisor (virtual machine monitor VMM)
   - sistema hospedeiro (host system)
 
-[Máquina virtual](fig/vm.png)
+![Máquina virtual](fig/vm.png)
 
 ### [](#header-3) Emulação
 
@@ -51,7 +51,7 @@
   - **virtualização** consiste em criar novas interfaces a partir das interfaces existentes
   - **abstração** dos recursos é construída de forma incremental, em níveis de abstração crescentes, que seja mais simples de usar e menos dependente das tecnologias subjacentes
 
-[Abstração vs Virtualização](fig/abstracao.png)
+![Abstração vs Virtualização](fig/abstracao.png)
 
 
 ## [](#header-2) Links
