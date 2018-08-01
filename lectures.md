@@ -5,19 +5,18 @@ layout: default
 # [](#header-1) Conteúdo da disciplina
 
 
-No. | Tópicos | Práticas | Exercícios
---- | --- | --- | --- | ---
-1   | [Introdução](introduction/index) | - | [exercício](introduction/exam) |  
-2   | [Linux](linux/index) | - | - |
-3   | [Máquina virtual](vm/index) | - |  |  
-4   | [DevOps e Docker](docker/index) | [introdução](docker/java), publicando, app no ar | - |  
-5   | [Processos](process/)     | [introdução](process/introduction)  |  |
-6   | Concorrência              |  |  |  
-7   | Escalonamento de tarefas  |  |  |
-8   | Comunicação entre tarefas |  |  |
-9   | Impasse                   |  |  | 
-10  | Memória                   |  |  |  
-11  | Entradas e saídas         |  |  |  
-12  | Sistemas de arquivos      |  |  |
-13  | Segurança                 |  |  |
-14  | [Heroku](heroku/index) | - | - |  
+No. | Tópicos | 
+--- | --- | 
+1   | [Introdução](introduction/index) |
+2   | [Linux](linux) |
+3   | [Máquina virtual](vm) |
+4   | [DevOps e Docker](docker) | 
+5   | [Processos](process/introduction) |
+6   | [Mecanismo de coordenação](process/concurrency) |
+7   | [Escalonamento de tarefas](process/scheduler)  |
+8   | [Comunicação entre tarefas](process/communication) |
+9   | [Impasse](process/deadlocks) |
+10  | [Memória](memory) |
+11  | [Entradas e saídas](io) |
+12  | [Sistemas de arquivos](files) |
+13  | [Segurança](security) |
