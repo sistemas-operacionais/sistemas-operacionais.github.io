@@ -7,4 +7,4 @@
 | aluno | link da tarefa |
 | --- | --- |
 | Minora (exemplo) | [cap1-minora](cap1-minora.md) |
-| Hiury oliveira | [Capítulo 1](cap1-hiury.md) |
+| Hiury oliveira | [Respostas - Capítulo 1](cap1-hiury.md) |
