@@ -39,10 +39,44 @@ usando o mesmo mecanismo das interrupções
 
 
 ### Questão 10
+O comando fopen do C é uma função da biblioteca padrão de Entrada/Saída.
 
 ### Questão 11
 
 ### Questão 12
+
+- Distribuído (D);
+- Multi-usuário (M);
+- Desktop (K);
+- Servidor (S);
+- Embarcado (E);
+- Tempo-real (T).
+
+[T] Deve ter um comportamento temporal previsível, com prazos de resposta
+claramente definidos.
+
+[S] Sistema operacional usado por uma empresa para executar seu banco de
+dados corporativo.
+
+[E] São tipicamente usados em telefones celulares e sistemas eletrônicos dedicados.
+
+[D] Neste tipo de sistema, a localização física dos recursos do sistema computacional
+é transparente para os usuários.
+
+[M] Todos os recursos do sistema têm proprietários e existem regras controlando
+o acesso aos mesmos pelos usuários.
+
+[E] A gerência de energia é muito importante neste tipo de sistema.
+
+[K] Sistema que prioriza a gerência da interface gráfica e a interação com o
+usuário.
+
+[S] Construído para gerenciar de forma eficiente grandes volumes de recursos.
+
+[K] O MacOS X é um exemplo típico deste tipo de sistema.
+
+[E] São sistemas operacionais compactos, construídos para executar aplicações
+específicas sobre plataformas com poucos recursos.
 
 ### Questão 13
 
