@@ -39,7 +39,7 @@ usando o mesmo mecanismo das interrupções
 
 
 ### Questão 10
-O comando fopen do C é uma função da biblioteca padrão de Entrada/Saída.
+O comando **fopen** do C é uma função da biblioteca padrão de Entrada/Saída.
 
 ### Questão 11
 
@@ -80,9 +80,42 @@ específicas sobre plataformas com poucos recursos.
 
 ### Questão 13
 
+- (c) Escrever um valor em uma posição de memória;
+
+- (e) Ler o valor dos registradores do processador;
+
 ### Questão 14
+- (b) Enviar um pacote através da rede;
+
+- (d) Preencher uma área de memória do processo com zeros;
+
+- (e) Remover um arquivo do disco;
 
 ### Questão 15
+
+[5] A rotina de tratamento da interrupção de software é ativada dentro do núcleo.
+
+[8] A função printf finaliza sua execução e devolve o controle ao código do
+processo.
+
+[3] A função de biblioteca printf recebe e processa os parâmetros de entrada (a
+string “Hello world”).
+
+[2] A função de biblioteca printf prepara os registradores para solicitar a
+chamada de sistema write()
+
+[6] O disco rígido gera uma interrupção indicando a conclusão da operação.
+
+[4] O escalonador escolhe o processo mais prioritário para execução.
+
+[7] Uma interrupção de software é acionada.
+
+[1] O processo chama a função printf da biblioteca C.
+
+[10] A operação de escrita no terminal é efetuada ou agendada pela rotina de
+tratamento da interrupção.
+
+[9] O controle volta para a função printf em modo usuário.
 
 ### Questão 16
 
