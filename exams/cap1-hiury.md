@@ -118,8 +118,10 @@ tratamento da interrupção.
 [9] O controle volta para a função printf em modo usuário.
 
 ### Questão 16
+- (b) Apenas a afirmação V está correta.
 
 ### Questão 17
+- (e) As afirmações II e V estão corretas.
 
 ### Questão 18
 
