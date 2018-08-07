@@ -8,48 +8,50 @@ layout: default
 
 | \# | dia | conteúdo |
 | :--- | :--- | :--- |
-| 01 | sexta-feira 16-02 | Introdução à disciplina |
-| 02 | terça-feira 20-02 | [Introdução a sistemas operacionais](introduction/index) |
-| 03 | sexta-feira 23-02 | Laboratório de ideias |
-| 04 | terça-feira 27-02 | [DevOps e Docker](docker/index.md) |
-| 05 | sexta-feira 02-03 | Reunião externa - Tarefa no Google sala de aula |
-| 06 | terça-feira 06-03 | [DevOps e Docker](docker/index.md) |
-| 07 | sexta-feira 09-03 | dúvidas |
-| 08 | terça-feira 13-03 | [Heroku](heroku/index) |
-| 09 | sexta-feira 16-03 | Visita ao datacenter |
-| 10 | terça-feira 20-03 | Visita ao datacenter |
-| 11 | sexta-feira 23-03 | Tarefas: introdução |
-| 12 | terça-feira 27-03 | Tarefas: introdução |
-| 13 | terça-feira 03-04 | FIXME |
-| 14 | sexta-feira 06-04 | Avaliação individual e escrita |
-| 15 | terça-feira 10-04 | FIXME |
-| 16 | sexta-feira 13-04 | CampusParty Acompanhamento de dúvidas |
-| 17 | terça-feira 17-04 | Apresentação do trabalho |
-| 18 | sexta-feira 20-04 | FIXME |
+| 01 | terça-feira  31-07 | Introdução à disciplina e sistemas operacionais |
+| 02 | quarta-feira 01-08 | Introdução ao terminal do Linux |
+| 03 | terça-feira  07-08 | Visita ao Datacenter |
+| 04 | quarta-feira 08-08 | Visita ao Datacenter |
+| 05 | terça-feira  14-08 | Git |
+| 06 | quarta-feira 15-08 |  |
+| 07 | terça-feira  21-08 |  |
+| 08 | quarta-feira 22-08 |  |
+| 09 | terça-feira  28-08 |  |
+| 10 | quarta-feira 29-08 |  |
+| 11 | terça-feira  04-09 |  |
+| 12 | quarta-feira 05-09 |  |
+| 13 | terça-feira  11-09 |  |
+| 14 | quarta-feira 12-09 |  |
+| 15 | terça-feira  18-09 |  |
+| 16 | quarta-feira 19-09 |  |
+| 17 | terça-feira  25-09 |  |
+| 18 | quarta-feira 26-09 |  |
+| 19 | terça-feira  02-10 |  |
+| 20 | ?? |  |
 
 
 ## [](#header-2) 2o Bimestre
 
 | \# | dia | conteúdo |
 | :--- | :--- | :--- |
-| 01 | terça-feira 24-04 | Gerência de memória |
-| 02 | sexta-feira 27-04 | Gerência de memória |
-| 03 | sexta-feira 04-05 | Acompanhamento do trabalho |
-| 04 | terça-feira 08-05 | Gerência de arquivos |
-| 05 | sexta-feira 11-05 | Gerência de arquivos |
-| 06 | terça-feira 15-05 | Acompanhamento do trabalho |
-| 07 | sexta-feira 18-05 | Gerência de entrada e saída |
-| 08 | terça-feira 22-05 | Gerência de entrada e saída |
-| 09 | sexta-feira 25-03 | Gerência de entrada e saída |
-| 10 | terça-feira 29-05 | Gerência de entrada e saída |
-| 11 | sexta-feira 01-06 | Acomanhamento do trabalho |
-| 12 | terça-feira 05-06 | Aspectos de segurança |
-| 13 | sexta-feira 08-06 | Aspectos de segurança |
-| 14 | terça-feira 12-06 | Aspectos de segurança |
-| 15 | sexta-feira 15-06 | Acomanhamento do trabalho |
-| 16 | terça-feira 19-06 | Virtualização |
-| 17 | sexta-feira 22-06 | Virtualização |
-| 18 | terça-feira 26-06 | Apresentação final do trabalho |
-| 19 | sexta-feira 29-06 | Entrega do resultado e autoavaliação |
-| 20 | terça-feira 03-06 | Recuperação |
+| 01 | terça-feira  09-10 |  |
+| 02 | quarta-feira 10-10 |  |
+| 03 | terça-feira  16-10 |  |
+| 04 | quarta-feira 17-10 |  |
+| 05 | terça-feira  23-10 |  |
+| 06 | quarta-feira 24-10 |  |
+| 07 | terça-feira  30-10 |  |
+| 08 | quarta-feira 31-10 |  |
+| 09 | terça-feira  06-11 |  |
+| 10 | quarta-feira 07-11 |  |
+| 11 | terça-feira  13-11 |  |
+| 12 | quarta-feira 14-11 |  |
+| 13 | terça-feira  20-11 |  |
+| 14 | terça-feira  27-11 |  |
+| 15 | quarta-feira 28-11 |  |
+| 16 | terça-feira  04-12 |  |
+| 17 | quarta-feira 05-12 |  |
+| 18 | terça-feira  11-12 |  |
+| 19 | quarta-feira 12-12 | Entrega do resultado e autoavaliação |
+| 20 | terça-feira  18-12 | Recuperação |
 
