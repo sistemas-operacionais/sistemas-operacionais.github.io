@@ -12,19 +12,31 @@ O gerenciamento de recursos foi implementado para que os softwares executando na
 ### Questão 4
 Sua característica essencial é ter um comportamento temporal previsível (ou seja, seu tempo de resposta deve ser conhecido no melhor e pior caso de operação).
 
-**soft real-time systems:** A perda de prazos implica na degradação do serviço prestado.
-**hard real-time systems:** a perda de prazos pelo sistema pode perturbar o objeto controlado, com graves consequências humanas, econômicas ou ambientais.
+**Soft real-time systems:** A perda de prazos implica na degradação do serviço prestado.
+
+**Hard real-time systems:** a perda de prazos pelo sistema pode perturbar o objeto controlado, com graves consequências humanas, econômicas ou ambientais.
 
 ### Questão 5
 **Núcleo do Sistema:** é o coração do sistema operacional, responsável pela gerência dos recursos do hardware usados pelas aplicações. O restante das aplicações têm que acessar o núcleo.
 
 ### Questão 6
+Não, porque os sistemas seriam muito suscetíveis à ataques.
 
 ### Questão 7
+A maioria dos sistemas operacionais usam apenas os níveis 0 e 3, porém pode haver algum sistema que use os níveis intermediários.
 
 ### Questão 8
 
+**Exceções:** Eventos gerados pelo próprio processador podem ocasionar o desvio da execução
+usando o mesmo mecanismo das interrupções
+
+**Interrupções:** É o evento que ocorre quando um controlador de periférico tem uma informação importante a fornecer ao processador.
+
+**Traps:**
+
 ### Questão 9
+
+
 
 ### Questão 10
 
