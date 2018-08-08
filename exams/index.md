@@ -19,7 +19,7 @@
 **tarefa** : confeccioner relatório de visita
 **quantidade de páginas** : entre 3 e 10 páginas
 **objetivo** : descrever os "computadores" (monitoramento, servidores, storages, etc, virtualizados e físicos) e os "sistemas operacionais" do datacenter do IFRN 
-**data de entrega** : à definir
+**data de entrega** : 24/08/2017
 
 | aluno | link dao relatório |
 | --- | --- |
