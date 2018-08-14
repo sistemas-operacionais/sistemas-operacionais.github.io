@@ -47,3 +47,21 @@
 6. Registrar a modificação localmente
 7. Publicar a modificação no seu repositório do GitHub
 8. Solicitar a modificação no respositório pai
+
+**lista de comandos**
+```sh
+git clone https://github.com/leonardo-minora/git-handson.git
+cd git-handson
+mkdir 2422958
+touch 2422958/index.md
+
+git status
+## Adicionar os arquivo para versionar
+git add 2422958/index.md
+## Registrar a versão
+git commit -m "Adicionado arquivo com info de Minora"
+## Sincronizar do repositório remoto para o repositório local
+git pull
+## Sincronizar do repositório local para o repositório remoto
+git push
+```
