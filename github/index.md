@@ -121,7 +121,7 @@ git remote -v
 ## Item 3. Sincronizar do repositório pai
 ## https://help.github.com/articles/syncing-a-fork/
 git fetch upstream
-git checkout master
+git merge upstream/master
 #### modificou localmente
 git status
 #### modificar em origin
