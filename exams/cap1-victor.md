@@ -86,3 +86,5 @@ R: Para o carregamento de bibliotecas compartilhadas, mapeamento da memória e -
 
 ## 19)O utilitário ltrace do UNIX permite observar a sequência de chamadas de biblioteca efetuadas por uma aplicação. Em um terminal UNIX, execute ltrace date para descobrir as funções de biblioteca chamadas pela execução do utilitário date (que indica a data e hora correntes). Pode ser observada alguma relação entre as chamadas de biblioteca e as chamadas de sistema observadas no ítem anterior?
 
+R:É possível observar que a função date executa as funções do processador sem utilizar bibliotecas.
+
