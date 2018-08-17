@@ -2,7 +2,6 @@ Sistemas Operacionais: Conceitos e Mecanismos
 Resolução do capítulo 1 (1-6)
 Discente: Ricardo Rafael 
 
-
 1- Abstração de recursos e gerenciamento de recursos
 2- Porque a abstração pode prover interfaces de acesso aos dispositivos mais simples de usar que as interfaces de baixo nível; 
 tornando os aplicativos independentes do hardware e define interfaces de acesso homogêneas para dispositivos com tecnologias distintas. 
