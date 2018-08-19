@@ -43,6 +43,14 @@ O comando **fopen** do C é uma função da biblioteca padrão de Entrada/Saída
 
 ### Questão 11
 
+Arquitetura               | Benefícios                  | Deficiências
+------------------------- | --------------------------- | ------------
+Sistema Monolítico        | - Desempenho                | Mal funcionamento de aplicações do núcleo pode alastrar instabilidades.
+Sistema em Camadas        | - Separação de código; - Permite que uma camada trabalhe com outra de diferente versão; |  Aumento do número de classes existentes no sistema.
+Sistema Micronúcleo       | - Robustez e flexibilidade. | - Custo associado a troca de mensagens entre componentes.
+Máquinas Virtuais         | - Simulação de configurações e situações do mundo real; - Diminuir custo com hardware. | Custo adicional de execução dos processos na máquina virtual em comparação a máquina real.
+
+
 ### Questão 12
 
 - Distribuído (D);
