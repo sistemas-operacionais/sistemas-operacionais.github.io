@@ -124,5 +124,7 @@ tratamento da interrupção.
 - (e) As afirmações II e V estão corretas.
 
 ### Questão 18
+Porque é preciso acessar o hardware diretamente via código de máquina.
 
 ### Questão 19
+O ltrace e strace tem as mesmas características, mas o strace ao invés de monitorar as chamadas do sistema, ele monitora as chamadas às funções das bibliotecas carregadas dinamicamente.
