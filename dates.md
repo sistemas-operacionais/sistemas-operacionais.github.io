@@ -13,9 +13,9 @@ layout: default
 | 03 | terça-feira  07-08 | Visita ao Datacenter |
 | 04 | quarta-feira 08-08 | Visita ao Datacenter |
 | 05 | terça-feira  14-08 | Git |
-| 06 | quarta-feira 15-08 |  |
-| 07 | terça-feira  21-08 |  |
-| 08 | quarta-feira 22-08 |  |
+| 06 | quarta-feira 15-08 | Git |
+| 07 | terça-feira  21-08 | Virtual machine |
+| 08 | quarta-feira 22-08 | Docker |
 | 09 | terça-feira  28-08 |  |
 | 10 | quarta-feira 29-08 |  |
 | 11 | terça-feira  04-09 |  |

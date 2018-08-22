@@ -1,14 +1,29 @@
+# [](#header-1) DevOps e Docker
 
+## [](#header-2) DevOps
 
-# [](#header-1) Docker
+**DevOps** = software development, IT infrastructure operations, and the intersection between them.
 
-## [](#header-2) Introdução e nomenclaturas
+- [By wikipedia](https://pt.wikipedia.org/wiki/DevOps)
+  - O termo _DevOps_ foi popularizado através de uma série de eventos intitulados [DevOps Days](https://www.devopsdays.org), começando em 2009 na Bélgica.
+  - A característica principal do movimento DevOps é defender fortemente a automação e monitoramento em todas as fases da construção do software, da integração, teste, liberação para implantação e gerenciamento de infraestrutura.
+  - Deve fornecer:
+    - ciclos de desenvolvimento menores
+    - frequência de implantação aumentada
+    - liberações mais seguras
+    - em alinhamento próximo com os objetivos de negócio 
+
+![Developement and Operations](images/devops.png)
+
+## [](#header-2) Docker 
+
+### [](#header-3) Introdução e nomenclaturas
 
 **Conceitos**
 - Hardware, sistema operacional e sistema computacional
 - Máquina virtual, sistema hospedeiro (_host_) e sistema convidado (_guest_)
 - Monitor de máquina virtual (_virtual machine monitor_ ou _hypervisor_)
-- Container e imagem
+- Container/conteiner e imagem
 
 [by wikipedia](https://pt.wikipedia.org/wiki/Docker_\(programa\)) 
 Docker é uma tecnologia de software que fornece contêineres, promovido pela empresa Docker, Inc.
@@ -18,8 +33,10 @@ Usa de recursos de um **sistema hospedeiro** para permitir **sistemas convidados
 [by docker.com](https://www.docker.com/what-docker) 
 _Docker enables true independence between applications and infrastructure and developers and IT ops to unlock their potential and creates a model for better collaboration and innovation._
 
-## [](#header-2) Práticas
+### [](#header-3) Práticas com docker
 
 1. [Introdução com java](java)
-2. Introdução com glassfish e publicando no [hub.docker.com](https://hub.docker.com)
-3. Colocando a aplicação no ar
+2. Aplicação web java
+3. Aplicação web com Banco de dados
+4. Colocando um proxy reverso
+5. Publicando a aplicação na web

@@ -1,33 +1,35 @@
 # [](#header-1) Docker : uma introdução
 
-## [](#header-2) Instalação e teste
+## [](#header-2) Instalação e teste do docker
 
 **docker**
 ```sh
+## muda do usuário aluno para dgti
 su dgti
+## muda do usuário dgti para root
+sudo su
+## vai para o diretório home do root
+cd
+## baixa o arquivo instalador do docker, salvando
+## com nome get-docker.sh
 curl -fsSL get.docker.com -o get-docker.sh
-sudo sh get-docker.sh
-sudo usermod -aG docker aluno
-sudo update-rc.d docker defaults
+## executa o script de instalação do docker
+sh get-docker.sh
+## coloca o usuário aluno no grupo de usuários docker
+usermod -aG docker aluno
+## atualiza as permissões no docker
+update-rc.d docker defaults
+
+## CTRL+D
+## Sair do usuário root
 exit
+## CTRL+D
+## Sair do usuário dgti
+exit
+
+## Teste do ambiente docker
 docker run hello-world
 ```
-
-Links:
-- [Get docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-using-the-convenience-script)
-- [Post-installation steps for Linux](https://docs.docker.com/install/linux/linux-postinstall/)
-
-
-**docker-compose**
-```sh
-sudo curl -L https://github.com/docker/compose/releases/download/1.19.0/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
-sudo chmod +x /usr/local/bin/docker-compose
-docker-compose --version
-```
-
-Links:
-- [Install Docker Compose](https://docs.docker.com/compose/install/)
-
 
 **docker command completion**
 - [Command-line completion](https://docs.docker.com/compose/completion/)
@@ -35,8 +37,9 @@ Links:
 
 
 ## [](#header-2) Criando seu primeiro conteiner
+_FIXME_
 
-**Objetivo**
+**Objetivos**
 1. Criar baixar imagem openjdk
 2. Criar container para compilar e executar códigos java
 3. Montar diretório hospedeiro no container
