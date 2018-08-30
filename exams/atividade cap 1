@@ -1,0 +1,41 @@
+aluno: franklin tavares da cruz
+matricula: 20161014040009
+
+1- Os sistemas operacionais são elementos fundamentais para o funcionamento de
+praticamente qualquer sistema de computação, dos minúsculos sistemas embarcados
+e telefones celulares aos gigantescos centros de processamento de dados das grandes
+empresas.
+2- Acessar os recursos de hardware de um sistema de computação pode ser uma
+tarefa complexa, devido às características específicas de cada dispositivo físico e a
+complexidade de suas interfaces. Por exemplo, a sequência a seguir apresenta os
+principais passos envolvidos na abertura de um arquivo (operação open) em um leitor
+de disquete:
+3 - um sistema operacional visa abstrair o acesso e gerenciar os recursos de
+hardware, provendo aos aplicativos um ambiente de execução abstrato, no qual o acesso
+aos recursos se faz através de interfaces simples, independentes das características e
+detalhes de baixo nível, e no qual os conflitos no uso do hardware são minimizados
+4- sua característica essencial é ter
+um comportamento temporal previsível.
+5 - o núcleo depende das outras funcionalidades. É o coração do sistema operacional, responsável pela gerência dos recursos
+do hardware usados pelas aplicações.
+6- não
+7 - não
+8 - Para distinguir interrupções geradas por dispositivos distintos, cada interrupção é
+identificada por um inteiro, normalmente com 8 bits. Como cada interrupção pode exigir
+um tipo de tratamento diferente (pois os dispositivos são diferentes), cada IRQ deve
+disparar sua própria rotina de tratamento de interrupção
+9-Para distinguir interrupções geradas por dispositivos distintos, cada interrupção é
+identificada por um inteiro, normalmente com 8 bits. Como cada interrupção pode exigir
+um tipo de tratamento diferente (pois os dispositivos são diferentes), cada IRQ deve
+disparar sua própria rotina de tratamento de interrupção
+10-É uma chamada de sistema, pois contém a chamada
+ read, que lê dados de um arquivo previamente aberto)
+ 11- sistemas monoliticos, sistemas em camadas, sistemas micronucleo e máquinas virtuais
+ 12 - d,m,k,s,e,t,d,m,k,m
+ 13- a
+ 14- a
+ 15- c
+ 16- b
+ 17- b
+ 18- não
+ 19- não
