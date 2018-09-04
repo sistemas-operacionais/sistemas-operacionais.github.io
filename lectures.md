@@ -13,7 +13,7 @@ No. | Tópicos |
 4   | [DevOps e Docker](docker) | 
 5   | [Processos](process/introduction) |
 6   | [Mecanismo de coordenação](process/concurrency) |
-7   | [Escalonamento de tarefas](process/scheduler)  |
+7   | [Escalonamento de tarefas](process/scheduler.pdf)  |
 8   | [Comunicação entre tarefas](process/communication) |
 9   | [Impasse](process/deadlocks) |
 10  | [Memória](memory) |
