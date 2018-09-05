@@ -12,7 +12,7 @@ No. | Tópicos |
 3   | [Máquina virtual](vm) |
 4   | [DevOps e Docker](docker) | 
 5   | [Processos](process/introduction) |
-6   | [Mecanismo de coordenação](process/concurrency) |
+6   | [Mecanismo de coordenação (concorrência)](process/concurrency.pdf) |
 7   | [Escalonamento de tarefas](process/scheduler.pdf)  |
 8   | [Comunicação entre tarefas](process/communication) |
 9   | [Impasse](process/deadlocks) |
