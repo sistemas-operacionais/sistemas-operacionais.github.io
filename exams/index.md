@@ -52,3 +52,17 @@
 **data de entrega** : 11/09/2018 as 16h10
 
 
+### 05. Publicar imagem jdk no hub.docker.com
+
+**tarefa** : 
+- criar uma imagem com Dockerfile baseado no debian que tenha instalado o Open JDK 10
+- publicar em hub.docker.com nomeando como jdk
+- no seu repositório 2018.2, criar o subdiretório ```$MATRICULA/docker```
+- criar um arquivo index.md, com o link para sua conta no hub.docker.com
+- publicar no subdiretório ```$MATRICULA/docker``` o arquivo Dockerfile, 
+renomeando para jdk.Dockerfile
+
+**data de entrega** : 14/09/2018 as 12h00
+
+
+
