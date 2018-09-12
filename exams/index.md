@@ -61,6 +61,7 @@
 - criar um arquivo index.md, com o link para sua conta no hub.docker.com
 - publicar no subdiretório ```$MATRICULA/docker``` o arquivo Dockerfile, 
 renomeando para jdk.Dockerfile
+- Lembre de fazer um ```pull request```
 
 **data de entrega** : 14/09/2018 as 12h00
 
