@@ -2,9 +2,16 @@
 
 ## [](#header-2) Sumário
 
+1. Instalação e teste
+2. Criando seu primeiro conteiner
+   1. Download da imagem
+   2. Criar um container para compilar e executar códigos java
+   3. Montar diretório hospedeiro no container
+   4. Empacotar uma aplicação java num container
 
 
-## [](#header-2) Instalação e teste
+
+## [](#header-2) 1. Instalação e teste
 
 **instalar**
 
@@ -61,7 +68,7 @@ extra: **docker command completion**
 
 
 
-## [](#header-2) Criando seu primeiro conteiner
+## [](#header-2) 2. Criando seu primeiro conteiner
 
 **Sumário**
 1. Download da imagem
@@ -211,7 +218,7 @@ apt-get install nano
 ### update-alternatives: using /bin/nano to provide /usr/bin/editor (editor) in auto mode
 ### update-alternatives: using /bin/nano to provide /usr/bin/pico (pico) in auto mode
 
-nano /etc/apt/source.list
+nano /etc/apt/sources.list
 # conteúdo do arquivo 
 ### deb http://deb.debian.org/debian stretch main
 ### deb http://security.debian.org/debian-security stretch/updates main
@@ -415,7 +422,7 @@ java --version
 # instalação novamente do java
 apt-get update
 apt-get install -y nano
-nano /etc/apt/source.list
+nano /etc/apt/sources.list
 apt-get update
 apt-get install -y openjdk-10-jdk
 
