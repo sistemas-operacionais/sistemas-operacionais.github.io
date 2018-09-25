@@ -11,7 +11,7 @@
 
 ## 1o Bimestre
 
-### 01. Cap 01 Introdução a sistemas operacionais
+### [](#bimestre-1-avaliacao-01) 01. Cap 01 Introdução a sistemas operacionais
 
 **tarefa** : responder as questões do [capítulo 1 do livro](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=so:so-exercicios.pdf)
 
@@ -21,7 +21,7 @@
 
 
 
-### 02. Relatório de visita ao Datacenter do IFRN
+### [](#bimestre-1-avaliacao-02) 02. Relatório de visita ao Datacenter do IFRN
 
 **tarefa** : confeccioner relatório de visita
 
@@ -33,7 +33,7 @@
 
 
 
-### 03. Cap 02 Gerência de atividades
+### [](#bimestre-1-avaliacao-03) 03. Cap 02 Gerência de atividades
 
 **tarefa** : responder as questões do [capítulo 2 do livro](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=so:so-exercicios.pdf)
 
@@ -43,7 +43,7 @@
 
 
 
-### 04. Cap 04 Coordenação entre tarefas: demonstração de erro com semáforo
+### [](#bimestre-1-avaliacao-04) 04. Cap 04 Coordenação entre tarefas: demonstração de erro com semáforo
 
 **tarefa** : Por que o código abaixo é problemático? Demonstre num passo a passo do código do [slides](https://sistemas-operacionais.github.io/process/concurrency.pdf)
 
@@ -52,7 +52,7 @@
 **data de entrega** : 11/09/2018 as 16h10
 
 
-### 05. Publicar imagem jdk no hub.docker.com
+### [](#bimestre-1-avaliacao-05) 05. Publicar imagem jdk no hub.docker.com
 
 **tarefa** : 
 - criar uma imagem com Dockerfile baseado no debian que tenha instalado o Open JDK 10
@@ -66,4 +66,12 @@ renomeando para jdk.Dockerfile
 **data de entrega** : 14/09/2018 as 12h00
 
 
+
+### [](#bimestre-1-avaliacao-06) 06. Cap 04 Coordenação entre tarefas
+
+**tarefa** : responder as questões do [capítulo 4 do livro](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=so:so-exercicios.pdf)
+
+**páginas** : 16-20
+
+**data de entrega** : 28/09/2018 as 16h10
 
