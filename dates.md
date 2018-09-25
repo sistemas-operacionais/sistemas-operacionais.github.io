@@ -8,6 +8,8 @@ layout: default
 
 | \# | dia | conteúdo |
 | :--- | :--- | :--- |
+| 00 | terça-feira  24-07 | Administrativo |
+| 00 | quarta-feira 25-07 | Administrativo |
 | 01 | terça-feira  31-07 | Introdução à disciplina e sistemas operacionais |
 | 02 | quarta-feira 01-08 | Introdução ao terminal do Linux |
 | 03 | terça-feira  07-08 | Visita ao Datacenter |
@@ -16,18 +18,17 @@ layout: default
 | 06 | quarta-feira 15-08 | Git |
 | 07 | terça-feira  21-08 | Virtual machine |
 | 08 | quarta-feira 22-08 | Docker |
-| 09 | terça-feira  28-08 |  |
-| 10 | quarta-feira 29-08 |  |
-| 11 | terça-feira  04-09 |  |
-| 12 | quarta-feira 05-09 |  |
-| 13 | terça-feira  11-09 |  |
-| 14 | quarta-feira 12-09 |  |
-| 15 | terça-feira  18-09 |  |
-| 16 | quarta-feira 19-09 |  |
-| 17 | terça-feira  25-09 |  |
-| 18 | quarta-feira 26-09 |  |
-| 19 | terça-feira  02-10 |  |
-| 20 | ?? |  |
+| 09 | terça-feira  28-08 | Docker |
+| 10 | quarta-feira 29-08 | Processos |
+| 11 | terça-feira  04-09 | Escalonamento de processos |
+| 12 | quarta-feira 05-09 | Concorrência |
+| 13 | terça-feira  11-09 | Problemas de concorrência: jantar dos filósofos, leitores e escritores, barbero |
+| 14 | quarta-feira 12-09 | Docker: publicando uma imagem |
+| 15 | terça-feira  18-09 | Docker compose |
+| 16 | quarta-feira 19-09 | Docker compose |
+| 17 | terça-feira  25-09 | Avalianção |
+| 18 | quarta-feira 26-09 | Docker compose |
+| 19 | terça-feira  02-10 | Impasse |
 
 
 ## [](#header-2) 2o Bimestre
