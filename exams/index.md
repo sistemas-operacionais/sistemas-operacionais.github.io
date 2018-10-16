@@ -11,7 +11,7 @@
 
 ## 1o Bimestre
 
-[Prova final do bimestre](./bimestre-01-avaliacao-01.pdf)
+[Prova do bimestre](./bimestre-01-avaliacao-01.pdf)
 
 ### [](#bimestre-1-avaliacao-01) 01. Cap 01 Introdução a sistemas operacionais
 
@@ -81,7 +81,7 @@
 
 _ou_
 
-[Prova final do bimestre](./bimestre-02-avaliacao-01.pdf)
+[Prova](./bimestre-02-avaliacao-01.pdf)
 
 ### [](#bimestre-2-avaliacao-02) 02. Cap 05 Gerência de memória
 
@@ -93,7 +93,7 @@ _ou_
 
 _ou_
 
-Prova final do bimestre
+Prova
 
 ### [](#bimestre-2-avaliacao-03) 03. Cap 06 Gerência de arquivos
 
@@ -105,7 +105,7 @@ Prova final do bimestre
 
 _ou_
 
-Prova final do bimestre
+Prova
 
 ### [](#bimestre-2-avaliacao-04) 04. Cap 07 Gerência de entrada e saída
 
@@ -115,4 +115,4 @@ Prova final do bimestre
 
 _ou_
 
-Prova final do bimestre
+Prova
