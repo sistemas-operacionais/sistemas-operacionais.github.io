@@ -2,10 +2,11 @@
 
 ## [](#sumario) Sumário
 
-1. Objetivos
-2. Motivação
-3. Docker compose
-4. Anatomia de um arquivo docker-compose.yml
+1. [Objetivos](#goals)
+2. [Motivação](#motivation)
+3. [Docker compose](#compose)
+4. [Web + Db](#app)
+5. [Prática](#lab)
 
 ## [](#goals) Objetivos
 
@@ -29,7 +30,7 @@
 2. Defina os serviços que irão compor sua aplicação com o arquivo `docker-compose.yml`, assim você pode executar em diversos ambientes.
 3. Inicialize os serviços com o comando `docker-compose up`, assim você inicia e executa realmente a aplicação
 
-## [](#anatomy) Anatomia de um arquivo docker-compose.yml
+### [](#anatomy) Anatomia de um arquivo docker-compose.yml
 
 Formato [YAML](http://yaml.org) ([wikipedia](https://pt.wikipedia.org/wiki/YAML)) _is a human friendly data serialization standard for all programming languages._
 
@@ -60,7 +61,7 @@ volumes:
   logvolume01: {}
 ```
 
-## [](#commands) Comandos
+### [](#commands) Comandos
 
 `docker-compose options command args`
 
@@ -74,16 +75,19 @@ volumes:
   - `pause` e `unpause`
 - View the status of running services
   - `ps`
-  -
 - Stream the log output of running services
   - `log`
 - Run a one-off command on a service
   - `exec`
   - `run`
 
-## [](#features) Características do docker-compose
+### [](#features) Características do docker-compose
 
 - Multiple isolated environments on a single host
 - Preserve volume data when containers are created
 - Only recreate containers that have changed
 - Variables and moving a composition between environments
+
+## [](#app) Aplicatico com banco de dados
+
+## [](#lab) Exercício
