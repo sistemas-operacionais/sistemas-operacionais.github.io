@@ -2,7 +2,7 @@
 
 ## Instruções
 
-1. Criar conta no [Githun](https://github.com/)
+1. Criar conta no [Github](https://github.com/)
 2. Fazer fork do repositório https://github.com/sistemas-operacionais/2018.2
 3. No repositório fork, criar um diretório com sua matrícula
 4. Para cada avaliação
