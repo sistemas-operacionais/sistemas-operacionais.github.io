@@ -11,7 +11,7 @@ layout: default
 | 01   | quinta-feira 14-02 | Aula inicial          |
 | 02   | sexta-feira  15-02 | Lab de ideias         |
 | 03   | quinta-feira 21-02 | Introdução a SO       |
-| 04   | sexta-feira  22-02 |                       |
+| 04   | sexta-feira  22-02 | Introdução a SO       |
 | 05   | quinta-feira 28-02 |                       |
 | 06   | sexta-feira  01-03 |                       |
 | 07   | quinta-feira 07-03 |                       |

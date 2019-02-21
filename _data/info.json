@@ -1,18 +1,14 @@
 [
-    {
-        "title": "Código",
-        "text": "TEC.0009"
-    },
-    {
-        "title": "terça-feira",
-        "text": "16h30-18h00 Lab 07"
-    },
-    {
-        "title": "quarta-feira",
-        "text": "14h40-16h10 Lab 07"
-    },
-    {
-        "title": "Sala de aula",
-        "text": "mdwv4b"
-    }
+  {
+    "title": "Código",
+    "text": "TEC.0009"
+  },
+  {
+    "title": "quinta-feira",
+    "text": "07h00-08h30 Lab 06"
+  },
+  {
+    "title": "quarta-feira",
+    "text": "08h30-10h00 Lab 06"
+  }
 ]
