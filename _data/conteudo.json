@@ -1,20 +1,26 @@
 [
   {
     "title": "Notas de aula",
-    "url": "/lectures"},
+    "url": "/lectures"
+  },
   {
     "title": "Cronograma",
-    "url": "/dates"},
+    "url": "/dates"
+  },
   {
     "title": "Avaliações",
-    "url": "/exams/"},
+    "url": "/exams/"
+  },
   {
     "title": "Links",
-    "url": "/bibliography"},
+    "url": "/bibliography"
+  },
   {
-    "title": "whatsapp",
-    "url": "https://chat.whatsapp.com/6ytxcwMAblM9H2kyo7DWpc"},
+    "title": "telegram",
+    "url": "https://t.me/joinchat/KRvitBOhv68msBzjtCvidg"
+  },
   {
     "title": "CADES",
-    "url": "https://github.com/cades-ifrn/sobre"}
+    "url": "https://github.com/cades-ifrn/sobre"
+  }
 ]
