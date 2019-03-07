@@ -6,26 +6,26 @@ layout: default
 
 ## [](#header-2) 1o Bimestre
 
-| \#   | dia                | conteúdo              |
-| :--- | :----------------- | :-------------------- |
-| 01   | quinta-feira 14-02 | Aula inicial          |
-| 02   | sexta-feira  15-02 | Lab de ideias         |
-| 03   | quinta-feira 21-02 | Introdução a SO       |
-| 04   | sexta-feira  22-02 | Introdução a SO       |
-| 05   | quinta-feira 28-02 |                       |
-| 06   | sexta-feira  01-03 |                       |
-| 07   | quinta-feira 07-03 |                       |
-| 08   | sexta-feira  08-03 |                       |
-| 09   | quinta-feira 14-03 |                       |
-| 10   | sexta-feira  15-03 |                       |
-| 11   | quinta-feira 21-03 |                       |
-| 12   | sexta-feira  22-03 |                       |
-| 13   | quinta-feira 28-03 |                       |
-| 14   | sexta-feira  29-03 |                       |
-| 15   | quinta-feira 04-04 |                       |
-| 16   | sexta-feira  05-04 |                       |
-| 17   | quinta-feira 11-04 |                       |
-| 18   | sexta-feira  12-04 | Entrega de resultados |
+| \#   | dia                | conteúdo                  |
+| :--- | :----------------- | :------------------------ |
+| 01   | quinta-feira 14-02 | Aula inicial              |
+| 02   | sexta-feira  15-02 | Lab de ideias             |
+| 03   | quinta-feira 21-02 | Introdução a SO           |
+| 04   | sexta-feira  22-02 | Introdução a SO           |
+| 05   | quinta-feira 28-02 | Processos                 |
+| 06   | sexta-feira  01-03 | Máquina virtual           |
+| 07   | quinta-feira 07-03 | Processos                 |
+| 08   | sexta-feira  08-03 | Processos                 |
+| 09   | quinta-feira 14-03 | Docker                    |
+| 10   | sexta-feira  15-03 | Escalonamento de tarefas  |
+| 11   | quinta-feira 21-03 | Comunicação entre tarefas |
+| 12   | sexta-feira  22-03 | Coordenação entre tarefas |
+| 13   | quinta-feira 28-03 | Mecanismos de coordenação |
+| 14   | sexta-feira  29-03 | Problemas clássicos       |
+| 15   | quinta-feira 04-04 | Impasses                  |
+| 16   | sexta-feira  05-04 | Docker compose            |
+| 17   | quinta-feira 11-04 | Memória                   |
+| 18   | sexta-feira  12-04 | Entrega de resultados     |
 
 
 ## [](#header-2) 2o Bimestre

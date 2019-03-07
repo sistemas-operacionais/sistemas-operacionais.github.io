@@ -1,16 +1,14 @@
 ## Bibliografias
 
 - Livros usados nas aulas
-  - [Sistemas operacionais: conceitos e mecanismos](http://wiki.inf.ufpr.br/maziero/doku.php?id=so:livro_de_sistemas_operacionais)
+  - [Sistemas operacionais: conceitos e mecanismos](http://wiki.inf.ufpr.br/maziero/doku.php?id=so:livro_de_sistemas_operacionais) [nova versão](http://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start)
   - [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores)
-
-
 
 ## Links
 
 - Livros gratuitos
-    - [The New Stack e-books](https://thenewstack.io/ebookseries/)
-    - [Free Programming eBooks](https://www.packtpub.com/packt/offers/free-learning) (disponibiliza 1 livro gratuito a cada 24h)
+  - [The New Stack e-books](https://thenewstack.io/ebookseries/)
+  - [Free Programming eBooks](https://www.packtpub.com/packt/offers/free-learning) (disponibiliza 1 livro gratuito a cada 24h)
 - http://gnu.org
 - Linux
   - https://itsfoss.com
